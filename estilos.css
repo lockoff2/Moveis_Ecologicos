@@ -5,3 +5,9 @@ h1{
 l1{
     font-family: monospace;
 }
+
+body{
+    width: 50%;
+    margin: auto;
+    background-color: lightgoldenrodyellow;
+}
