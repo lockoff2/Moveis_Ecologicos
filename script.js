@@ -3,7 +3,7 @@ var banner = 0;
 
 function trocarBanner(){
     banner = (banner + 1) % 2;
-    document.querySelector("h2#mensagem").textContent = banner[banner];
+    document.querySelector("h2#mensagem").textContent = banners[banner];
 }
 
 setInterval(trocarBanner, 2000);
