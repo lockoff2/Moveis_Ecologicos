@@ -1,9 +1,15 @@
 h1{
     font-family: sans-serif;
+    color: blue;
 }
 
-l1{
+h2{
+    color: chartreuse;
+}
+
+li{
     font-family: monospace;
+    color: blueviolet;
 }
 
 body{
